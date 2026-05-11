@@ -1,27 +1,27 @@
-# About Me:
+# About Me
 # Hi, I'm Bhagyashree Mahajan 👋
 
 MSc Data Science candidate at NMIMS Mumbai (2026), passionate about building 
-AI systems that don't just perform well on paper — but actually work in the real world.
+AI systems that don't just perform well on paper but actually work in the real world.
 
 I work across the full data lifecycle: from wrangling messy datasets and engineering 
 features, to training models, deploying them, and monitoring them in production. My 
-projects span transport intelligence (34.5M NYC taxi trips), predictive maintenance 
-for aerospace assets, green MLOps pipelines, and HR analytics — each one built with 
+projects span transport intelligence, predictive maintenance 
+for aerospace assets, green MLOps pipelines for environmental impact, and HR analytics - each one built with 
 a focus on accuracy, explainability, and real-world usability.
 
 ## 🔧 What I work with
 Python · Machine Learning · Deep Learning · NLP · SQL  
-Power BI · Tableau · Streamlit · FastAPI · MLflow · PySpark
+Power BI · Tableau · Streamlit · MLflow · PySpark
 
 ## 🌱 Currently exploring
-MLOps, LLM applications, and sustainable/green AI practices
+LLM applications, and sustainable/green AI practices
 
 ## 🤝 Open to
 Collaborations, research projects, and full-time Data Science / ML roles
 
 ## ✨ Beyond the data
-Dance and painting keep me creative — I believe the same curiosity that drives 
+Dance and painting keep me creative - I believe the same curiosity that drives 
 great art makes for better data storytelling.
 
 
