@@ -1,5 +1,29 @@
-# 💫 About Me:
-Hi there, I'm Bhagyashree Mahajan! 👋<br>I'm an avid explorer in Data Science, driven by the curiosity to unravel stories hidden within data and contribute to informed decision-making.<br>I have a background in BSc Data Science and MSc Data Science with a passion for transforming data into meaningful insights and actionable solutions. I love exploring AI, machine learning, and deep learning, NLP applications through real-world projects that solve complex problems. Proficient in utilizing tools like Power BI, Tableau, Excel, and Python for data analysis and visualization.<br><br>🔭 I’m currently working on ...<br>Continuously learning and working on projects to enhance my skills.<br><br>🌱 I’m currently learning ...<br>Always expanding my knowledge in the field of Data Science and exploring new technologies and methodologies.<br><br>👯 I’m looking to collaborate on ...<br>Exciting projects in this field where I can contribute my skills and learn from others.<br><br>⚡ Fun fact ...<br>Beyond my data-driven pursuits, I find joy in expressing myself through the art of dance and painting, infusing creativity into both my professional and personal endeavors.<br>
+# About Me:
+# Hi, I'm Bhagyashree Mahajan 👋
+
+MSc Data Science candidate at NMIMS Mumbai (2026), passionate about building 
+AI systems that don't just perform well on paper — but actually work in the real world.
+
+I work across the full data lifecycle: from wrangling messy datasets and engineering 
+features, to training models, deploying them, and monitoring them in production. My 
+projects span transport intelligence (34.5M NYC taxi trips), predictive maintenance 
+for aerospace assets, green MLOps pipelines, and HR analytics — each one built with 
+a focus on accuracy, explainability, and real-world usability.
+
+## 🔧 What I work with
+Python · Machine Learning · Deep Learning · NLP · SQL  
+Power BI · Tableau · Streamlit · FastAPI · MLflow · PySpark
+
+## 🌱 Currently exploring
+MLOps, LLM applications, and sustainable/green AI practices
+
+## 🤝 Open to
+Collaborations, research projects, and full-time Data Science / ML roles
+
+## ✨ Beyond the data
+Dance and painting keep me creative — I believe the same curiosity that drives 
+great art makes for better data storytelling.
+
 
 
 ## 🌐 Socials:
