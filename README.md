@@ -18,7 +18,7 @@ Power BI · Tableau · Streamlit · MLflow · PySpark
 LLM applications, and sustainable/green AI practices
 
 ## 🤝 Open to
-Collaborations, research projects, and full-time Data Science / ML roles
+Collaborations, research projects, and full-time/internship Data Science / ML roles
 
 ## ✨ Beyond the data
 Dance and painting keep me creative - I believe the same curiosity that drives 
