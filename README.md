@@ -26,9 +26,9 @@ great art makes for better data storytelling.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagyashree-mahajan-a2577520b/) 
 
 # 💻 Tech Stack:
-Languages: Python, SQL 
-Data & ML: Pandas, NumPy, scikit-learn, LightGBM, XGBoost, PyTorch, PySpark 
-Visualization & BI: Power BI, Tableau, Excel, Matplotlib, Seaborn, Plotly 
+Languages: Python, SQL </b>
+Data & ML: Pandas, NumPy, scikit-learn, LightGBM, XGBoost, PyTorch, PySpark </b>
+Visualization & BI: Power BI, Tableau, Excel, Matplotlib, Seaborn, Plotly </b>
 Apps & Deployment: Streamlit, FastAPI, Git
 
 # 📊 GitHub Stats:
