@@ -7,7 +7,7 @@ I work across the full data lifecycle: from wrangling messy datasets and enginee
 features, to training models, deploying them. My 
 projects span transport intelligence, predictive maintenance 
 for aerospace assets and HR analytics - each one built with 
-a focus on accuracy, explainability, and real-world usability.
+a focus on accuracy, explainability, and real-world usability. Each repository includes its own problem statement, approach, results and tech stack.
 
 ## 🔧 What I work with
 Python · Machine Learning · Deep Learning · NLP · SQL  
