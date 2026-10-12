@@ -16,6 +16,8 @@ Power BI · Tableau · Streamlit · PySpark
 ## 🤝 Open to
 Collaborations, research projects, and full-time / internship / Data Science roles / Data Analytics roles / ML roles 
 
+Gmail Id - mahajanbhagyashree377@gmail.com
+
 ## ✨ Beyond the data
 Dance and painting keep me creative - I believe the same curiosity that drives 
 great art makes for better data storytelling.
