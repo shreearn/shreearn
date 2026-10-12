@@ -14,7 +14,7 @@ Python · Machine Learning · Deep Learning · NLP · SQL
 Power BI · Tableau · Streamlit · PySpark
 
 ## 🤝 Open to
-Collaborations, research projects, and full-time/internship Data Science / Data Analytics / ML roles 
+Collaborations, research projects, and full-time / internship / Data Science / Data Analytics / ML roles 
 
 ## ✨ Beyond the data
 Dance and painting keep me creative - I believe the same curiosity that drives 
