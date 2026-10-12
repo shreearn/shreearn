@@ -24,7 +24,7 @@ great art makes for better data storytelling.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagyashree-mahajan-a2577520b/) 
-[![Gmail ID](mahajanbhagyashree377@gmail.com)
+
 
 # 💻 Tech Stack:
 Languages: Python, SQL
